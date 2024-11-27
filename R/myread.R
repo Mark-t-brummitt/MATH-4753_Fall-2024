@@ -1,7 +1,7 @@
 #' My Read Function
 #'
 #' @param csv a data set
-#'
+#' @importFrom utils read.table
 #' @return a table
 #' @export
 #'
